@@ -1,0 +1,200 @@
+  <!-- Duplicata do penúltimo div 8 -->
+
+  </div>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Haikyuu FanPage!</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
+<style>
+body {
+  font-family: "Times New Roman", Georgia, Serif;
+  background-color: #EFA32D;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+</style>
+</head>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px; width:calc(100vw - 32px); margin-left:16px; margin-right:16px; position:relative; left:0; transform:none;">
+    <a href="#home" class="w3-bar-item w3-button">Haikyuu!! Fan page</a>
+    <!-- Right-sided navbar links. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="#about" class="w3-bar-item w3-button">Sobre</a>
+      <a href="#menu" class="w3-bar-item w3-button">Resumo</a>
+  <a href="#karasunoteam" class="w3-bar-item w3-button">Karasuno Team</a>
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
+  <img class="w3-image" src="https://images6.alphacoders.com/741/thumb-1920-741767.jpg" alt="Hamburger Catering" width="1600" height="800">
+  <div class="w3-display-bottomleft w3-padding-large w3-opacity">
+    <h1 class="w3-xxlarge">Haikyuu!!</h1>
+  </div>
+</header>
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:1100px">
+
+  <!-- About Section -->
+  <div class="w3-row w3-padding-64" id="about">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+  <img src="https://a-static.mlcdn.com.br/800x560/livro-haikyu-vol-05-big/fribbook/9786555943399/bb8c96087c3a094d57a571beffcdbab4.png" class="w3-round w3-image" alt="Table Setting" width="600" height="950" style="opacity:0.95;">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">Sobre Haikyuu!!</h1><br>
+      <h5 class="w3-center">Manga - de 2012 a 2020</h5>
+      <p class="w3-large">Haikyu!! segue Shoyo Hinata, um estudante baixo que ama vôlei e sonha em se tornar um grande jogador, inspirado por um "Pequeno Gigante". No ensino médio, ele entra para o time de Karasuno, apenas para descobrir que seu rival, o genial levantador Tobio Kageyama, também é um membro da equipe. A história foca na jornada de Hinata e Kageyama para superarem suas diferenças, aprenderem a trabalhar juntos e transformarem um time outrora fraco em uma potência, superando obstáculos através da  <span class="w3-tag w3-black">união</span> e <span class="w3-tag w3-black">determinação</span>.</p>
+  <p style="font-size:20px; letter-spacing:-1px; color:#000;">Assim como é ensinado na própria cultura japonesa, Haikyu!! mostra, tendo como ponto de partida a disputa entre Hinata e Kageyama, que a união é que faz a força de um grupo (no caso, um time de vôlei) e que, com determinação, pode-se superar obstáculos e assim alcançar o sucesso coletivo e pessoal. Além disso, no mangá, a personalidade de cada jogador se identifica com a posição que ele ocupa na quadra, e é exatamente essa colaboração mútua de cada integrante da equipe que abre o caminho para se tornarem verdadeiros campeões.</p>
+    </div>
+  </div>
+  
+  <hr>
+  
+  <!-- Menu Section -->
+  <div class="w3-row w3-padding-64" id="menu">
+    <div class="w3-col l6 w3-padding-large">
+      <h1 class="w3-center">Resumo</h1><br>
+      <h4>A Obra em Si</h4>
+  <p class="w3-text-white" style="font-size:18px;">Na obra, acompanhamos o jovem Shoyo Hinata e o seu sonho de conseguir jogar vôlei apesar de sua baixa estatura. Quando mais jovem ele viu pela televisão um jogo estudantil em que uma das estrelas do time era uma pessoa baixinha como ele e, a partir de então, nutriu a esperança de também realizar tal feito. Durante o restante do fundamental, ele treinou sozinho, até que conseguiu reunir algumas pessoas no colégio para participar de uma competição. Na história, ele se deparará logo no primeiro jogo com a equipe favorita, em que um dos integrantes é o levantador Tobio Kageyama, conhecido como “Rei da Quadra”, e como não poderia deixar de ser, Hinata e sua equipe são derrotados de lavada. A partir de então Hinata começará a treinar muito mais para que no próximo encontro com Kageyama ele possa vencer o seu rival. Entretanto, as coisas não saem como o planejado e em sua nova escola no ensino médio, o colégio Karasuno, Hinata se deparará justamente com Kageyama como um de seus colegas de time. O primeiro volume brasileiro compila os dois primeiros números originais, então veremos nele os 16 primeiros capítulos da obra, compreendendo a introdução (o sonho de Hinata, o encontro com Kageyama e o primeiro jogo do baixinho) e o início do desenvolvimento do mangá (a pequena rixa entre Hinata e Kageyama, a busca dos dois de serem aceitos no clube de vôlei e, claro, as primeiras alegrias e problemas). A obra seguirá então Hinata e os demais membros do clube de vôlei do colégio Karasuno e a tentativa deles de melhorarem e se tornarem uma equipe forte, capaz de galgar os mais altos rankings dos campeonatos estudantis, sempre tendo um time mais forte no cangote. </p><br>
+    
+      
+    </div>
+    
+    <div class="w3-col l6 w3-padding-large">
+  <img src="https://i.pinimg.com/736x/90/3c/b7/903cb713021b1af6ad521b680e8b0813.jpg" class="w3-round w3-image" alt="Menu" style="width:100%; opacity:0.95;">
+    </div>
+  </div>
+
+  <hr>
+
+  <!-- Contact Section (substituída pelo conteúdo da segunda div) -->
+  <div class="w3-row w3-padding-64" id="karasunoteam">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+  <img src="https://media.discordapp.net/attachments/1018192135679381526/1412434821619253439/221_Sem_Titulo_20250902095100.png?ex=68b847ef&is=68b6f66f&hm=96df774d816e64e4c1249f52e021aba4b7d9d32ff2bc93a69c496b15f53db301&=&format=webp&quality=lossless&width=513&height=856" class="w3-round w3-image" alt="Table Setting" width="600" height="950" style="opacity:0.95;">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">Karasuno Team</h1><br>
+      <h5 class="w3-center">Personagens principais do time!</h5>
+      <p class="w3-large">Shoyo Hinata é o principal protagonista de Haikyuu!!. Ele é estudante do primeiro ano no Colégio Karasuno e é um dos bloqueadores do meio da equipe de vôlei. O sonho de Hinata é tornar-se forte o suficiente para ultrapassar os altos bloqueadores, assim como o Pequeno Gigante fez. No entanto, uma vez que ele não tem altura para um bloqueador médio, ele é especialista em saltar para compensar. Após se formar no colégio, ele viajou até o Brasil para treinar vôlei de praia por dois anos. E ao retornar para o Japão ele se tornou membro do time MSBY Black Jackals, 1ª divisão na Liga V. Shoyo possui uma personalidade animada e energética. Ele fica excitado facilmente e pode ser um pouco barulhento, perdendo apenas para Yu e Ryunosuke. Na maior parte das vezes, Shoyo é muito simplista, o que, às vezes, faz com que ele tome decisões precipitadas. Entretanto, ele se mostrou ser bastante observador. Ele é capaz de ler o clima e ser incrivelmente empático com a causa dos outros, e por conta disso, ele é capaz de dizer justamente o que o outro está precisando ouvir para "empurra-los" na direção certa. Ele é, também, notado por ser naturalmente chamativo, uma qualidade que seus colegas de time ocasionalmente usam para ganhar conquistar as pessoas. Sua personalidade amigável e direta permite que ele faça amizade até mesmo com as mais silenciosas das pessoas sem esforço, como o Kenma da Nekoma e Takanobu da Date Tech.
+
+No entanto, apesar de seu exterior, Shoyo também mostra ter uma atitude séria, especialmente quando se trata de vôlei. Seu amor intenso para o esporte é demonstrado através de sua exibição impressionante de tenacidade que decorre de seu desejo constante de melhorar suas habilidades. Como mostrado por Sugawara, Hinata joga com grande coragem em frente a adversidade e assim não desiste fácil durante uma partida. Hinata também consegue mostrar uma expressão bastante intimidadora quando ele é subestimado. Ainda assim, Hinata se assusta facilmente, especialmente por adversários maiores e mais fortes, isso o fez desenvolver o habito de se esconder atrás de seus colegas de time. No entanto, ele se recupera rapidamente antes de desafiar seus oponentes.</p>
+    </div>
+  </div>
+  
+  <!-- Duplicata do penúltimo div -->
+  <div class="w3-row w3-padding-64" id="karasuno-duplicata">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+      <img src="https://media.discordapp.net/attachments/1018192135679381526/1412434821904601088/221_Sem_Titulo_20250902095104.png?ex=68b847ef&is=68b6f66f&hm=7e42e81fc92712a3fb9f67f855791259b2f8e33703fdeb33e8ba65878d070eff&=&format=webp&quality=lossless&width=513&height=856" class="w3-round w3-image" alt="Table Setting" width="600" height="950" style="opacity:0.95;">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+      <p class="w3-large">Kageyama Tobio é um estudante de primeiro ano no Karasuno High School e é o levantador titular da equipe de vôlei. Kageyama foi apelidado de "Rei da Quadra", por seus ex-companheiros de equipe em Kitagawa Daiichi, devido ao seu comportamento arrogante e sua incapacidade de cooperar com os companheiros de equipe, em vez optando para ordená-los ao redor. Kageyama é igualmente considerado como um prodígio e um gênio por muitos dos jogadores e treinadores da prefeitura. Depois de se juntar a Karasuno, ele consegue mudar sua atitude para melhor com a ajuda de seus novos companheiros e "redescobrir" o que significa ser parte de uma equipe. Completamente mal-humorado, arrogante e sem paciência, Kageyama se mostrou como um típico perfeccionista arrogante, que se preocupa apenas em ganhar desconsiderando completamente as opiniões e o estado de seus companheiros de time. Seu habito de reclamar sobre o desempenho do time e gritar ordens fez com que os outros jogadores do colégio Kitagawa Daiichi o apelidar de "O Rei da Quadra", uma forma de demonstrar o quão autoritário e egocêntrico ele foi durante sua época no fundamental.
+
+Sem que seus colegas e conhecidos tenham a ciência, Kageyama é bem mais infantil e sensível do que aparenta ser. Ele não sabe controlar sua frustração e, portanto, expressa seus pensamentos e emoções de forma errada.
+
+Depois de todos da Kitagawa Daiichi terem se cansado e terem o abandonado, Kageyama se sentiu arrependido e acabou por desenvolver um grande medo de ser desprezado, mas ele se recusou a falar sobre o assunto até o momento que Tsukishima o confrontou sobre isso.
+
+Apesar da sua incapacidade de se socializar, ele sinceramente deseja dar o seu melhor e é extremamente dedicado quando se trata de vôlei, ao ponto de ficar completamente empolgado a cada sucesso em realizar algum movimento com Hinata.</p>
+    </div>
+  </div>
+  <!-- Duplicata do penúltimo div 2 -->
+  <div class="w3-row w3-padding-64" id="karasuno-duplicata-2">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+      <img src="https://media.discordapp.net/attachments/1018192135679381526/1412434822176968825/221_Sem_Titulo_20250902095106.png?ex=68b847ef&is=68b6f66f&hm=4b71bd6c61fb655bc78c5cfa8fde368db27187107efdc1a00c6d3399beb14c4d&=&format=webp&quality=lossless&width=513&height=856" class="w3-round w3-image" alt="Table Setting" width="600" height="950" style="opacity:0.95;">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <p class="w3-large">Daichi Sawamura é o capitão do time, geralmente calmo, mas quando fica irritado congela de medo qualquer um ao redor. Ele é a base do time, a sua sustentação, sabe o que, e quando dizer algo para que nenhum jogador perca a calma durante os jogos. Entretanto é um terceiranista, e este é seu último ano no colégio, porém ele ama jogar vôlei e por isso, como os outros, ele preferiu permanecer no clube até o último torneio mesmo com as provas de final do ano. Daichi é um capitão responsável e cuidadoso que sempre coloca seu time na frente de tudo. Ele também é muito paciente e compreende os outros, mas se torna assustador quando está com raiva, embora ele raramente mostre esse seu lado. Daichi é um capitão muito atencioso e responsável que sempre coloca sua equipe em primeiro lugar. Ele também é muito paciente e compreensivo, mas se torna assustador quando está bravo, embora só mostre esse lado quando necessário. Ele se torna muito rigoroso quando seus companheiros de equipe estão fora da linha, como demonstrado quando ele trancou Kageyama e Hinata na academia quando eles discutiram e se recusaram a ouvir. No entanto, suas ações sempre foram em prol do melhor interesse da equipe. Devido à sua devoção à equipe e ao seu comando, ele é ao mesmo tempo respeitado e temido por sua equipe.
+
+Fora de suas características como capitão e jogador de equipe, Daichi é incrivelmente maduro e independente. Durante seu primeiro ano em Karasuno, Daichi naturalmente emergiu como um líder entre ele, Asahi e Sugawara . Ele sugeriria maneiras de melhoria, bem como recrutaria Kiyoko como gerente, embora a equipe de Karasuno tenha ficado em desordem sem um treinador ou uma figura de liderança forte. [ 3 ] Ele foi notado por não dar a impressão de um estudante do ensino médio por causa de sua personalidade madura. Apesar disso, Daichi ocasionalmente tem momentos em que exibe comportamento infantil, como quando se meteu em encrenca por acidentalmente disparar o sino de emergência enquanto lutava com o capitão do time de basquete masculino durante o horário de pico do almoço. </p>
+    </div>
+  </div>
+  <!-- Duplicata do penúltimo div 3 -->
+  <div class="w3-row w3-padding-64" id="karasuno-duplicata-3">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+      <img src="https://media.discordapp.net/attachments/1018192135679381526/1412434822458245303/221_Sem_Titulo_20250902095109.png?ex=68b847ef&is=68b6f66f&hm=fde7dcb5cb1047ee3dfe03397362de531ed553805467079afdc293e7ca385b91&=&format=webp&quality=lossless&width=513&height=856" class="w3-round w3-image" alt="Table Setting" width="600" height="950" style="opacity:0.95;">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <p class="w3-large">
+Sugawara Koshi, sendo o vice-capitão do time, tem uma personalidade um pouco mais suave, e não fica brigando muito, como o Tanaka. Mesmo quando não era mais o levantador oficial do clube, ele ainda se esforça para continuar a jogar na quadra. Sugawara é um dos membros mais esforçados do time, é um exemplo disso é quando ele decide continuar no clube, mesmo estando no 3° ano. Quando não está em jogo, Sugawara presta bastante atenção ao modo o qual o time adversário joga, frequentemente podendo dar aos seus companheiros dicas de como derrotá-los. Quando ele tem a chance de entrar, consegue transportar o que ele aprendeu enquanto assistia e melhorar o time em geral. No entanto, ele rapidamente fica estressado com o calor do jogo e acaba pensando muito nas coisas. A dedicação do Sugawara com o vôlei fica explícita quando ele decide continuar a praticar as atividades do clube, mesmo quando a maioria dos terceiranistas escolheriam se retirar e focar em seus próprios futuros. Em uma reunião, seu professor perguntou a Sugawara por que ele era tão determinado a continuar jogando, mesmo que já não fosse um titular no time, e Sugawara respondeu que não deseja ter arrependimentos no futuro. Apesar de seu comportamento estimulante, às vezes ele pode ser maldoso, como quando ele incentiva Hinata a ir para o Acampamento Juvenil mesmo sem ser convidado, ou violento, como quando ele cumprimenta seus companheiros de time durante as partidas, batendo neles quando está animado para entrar, embora isso acabe animando-os mesmo assim.
+
+Ele também é bem orgulhoso, apesar de isso ser mostrado raramente. Alguns exemplos são quando ele diz: "Kageyama, a partir de agora se você começar a ser bombardeado de entrevistas, você vai dizer que aprendeu tudo com um senpai magnífico chamado Sugawara, okay?" e quando ele se gabou de ter criado o nome "Minus de Fundo" para a técnica de Kageyama e Hinata. Durante a partida contra Shiratorizawa, ele estava tão irritado com a derrota provisória de seu time que começou a gritar e murmurar, o que parece ser o contrário de seu usual comportamento maduro.</p>
+    </div>
+  </div>
+  <!-- Duplicata do penúltimo div 4 -->
+  <div class="w3-row w3-padding-64" id="karasuno-duplicata-4">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+      <img src="https://media.discordapp.net/attachments/1018192135679381526/1412434822705451139/221_Sem_Titulo_20250902095112.png?ex=68b847ef&is=68b6f66f&hm=413427eb703dee36ae4e123873ea024f7e067a331bfaaabca90f01940c677617&=&format=webp&quality=lossless&width=513&height=856" class="w3-round w3-image" alt="Table Setting" width="600" height="950" style="opacity:0.95;">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <p class="w3-large">Asahi Azumane é conhecido como o ás de Karasuno, mas houve um momento em que ele rejeitou seu título. Durante a partida Karasuno x Dateko, em seu segundo ano, todos os seus cortes foram bloqueados, fazendo com que Asahi se sentisse decepcionado consigo mesmo e se culpasse pela derrota de sua equipe. Certa noite, enquanto a equipe fechava o ginásio, Asahi perguntou aos seus companheiros por que não o estavam culpando, irritando Nishinoya. Um mês depois, Kageyama e Hinata o convenceram a voltar para o time após muita insistência, principalmente de Hinata. Desde então, Asahi aceitou sua posição como o ás do time de vôlei de Karasuno. Em contraste com sua aparência, Asahi é quieto e gentil. Ele também se sente inseguro sobre um monte de coisas e parece ser um pouco medroso. Já foi dito que ele tem um "Coração de Vidro", pois leva tudo que é dito sobre ele para o coração, e fica depressivo por conta disso algumas vezes. Após voltar para o time, Asahi percebeu que sua vontade de continuar jogando Volleyball era maior do que ele pensava. Com o incentivo de seus amigos de equipe, ele reconheceu sua posição como Ace e ganhou mais confiança quanto a isso. Apesar de ter dificuldades para aceitar totalmente sua posição de Ace, Asahi deixa claro que não tem intenção de deixar que seu título seja retirado, ou que os novatos do time o superem.</p>
+    </div>
+  </div>
+  <!-- Duplicata do penúltimo div 5 -->
+  <div class="w3-row w3-padding-64" id="karasuno-duplicata-5">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+      <img src="https://media.discordapp.net/attachments/1018192135679381526/1412434823137591316/221_Sem_Titulo_20250902095115.png?ex=68b847ef&is=68b6f66f&hm=b74abc8b7e92a7886fd74a2f168ad123175ca9af287e615da9a073c912fea000&=&format=webp&quality=lossless&width=513&height=856" class="w3-round w3-image" alt="Table Setting" width="600" height="950" style="opacity:0.95;">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <p class="w3-large">Tanaka Ryunosuke tem uma cabeça raspada e olhos azul-acinzentados (marrom-dourado no mangá em ilustrações coloridas). É de altura média e tem uma construção fina. Ele tem uma tendência a fazer rostos estranhos e assustá-los, pelos quais Daichi o repreende. Alto, impulsivo, é fácil irritá-lo. Criar brigas não é estranho para ele. Ryu também pode ser chamado de aspirador leve; é demonstrado pela sua não muito boa ética de trabalho escolar e contínuo atraso nos estágios. Ainda assim, ele está cuidando e apoia seus companheiros de equipe. Normalmente, quando ele aquece, é imparável em campo - também é excepcionalmente alto, como evidenciado por sua alegria excessiva depois de conseguir um ponto ou fazer um bom movimento. Ele também tem a tendência de tirar a camisa e passar por cima da cabeça quando consegue. Ryūnosuke e seus amigos chegaram ao jogo da escola secundária quando tudo começou. Ele se perguntou por que eles vieram vê-lo, então Daichi disse a ele que eles estavam aqui para ver o "rei" . Tanaka percebe que Kageyama tem uma atitude ruim, e os oponentes de sua equipe parecem ser estudantes da escola primária. Durante a partida, Ryūnosuke ficou impressionado com cada salto do capitão Yukigaoka, e um pouco decepcionado quando ele foi bloqueado.</p>
+    </div>
+  </div>
+  <!-- Duplicata do penúltimo div 6 -->
+  <div class="w3-row w3-padding-64" id="karasuno-duplicata-6">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+      <img src="https://media.discordapp.net/attachments/1018192135679381526/1412434823393579105/221_Sem_Titulo_20250902095122.png?ex=68b847ef&is=68b6f66f&hm=1959f07911cc496dd61332157d02004c5ced4cac6b19098332e64c51d78af608&=&format=webp&quality=lossless&width=513&height=856" class="w3-round w3-image" alt="Table Setting" width="600" height="950" style="opacity:0.95;">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <p class="w3-large">Yu Nishinoya é aluno do 2º ano da escola Karasuno. Ele é membro do time de voleibol da escola e atua como o Líbero do time. Seus colegas de time o apelidaram de Divino Guardião da Karasuno. Quando questionado por que escolheu entrar em Karasuno, ele disse que era porque queria usar o gakuran preto da escola, que ele acha "super legal", e acrescentou que também considera o uniforme das meninas "super fofo". Nishinoya é uma pessoa muito enérgica e temperamental. Sua natureza turbulenta e peripécias malucas podem atrair atenção indesejada com bastante facilidade, o que geralmente vai mal para ele. Embora ele raramente se preocupe com as consequências de seus atos (e pode até mesmo voltar à violência para descarregar sua raiva em certas ocasiões), ele é surpreendentemente atencioso com os sentimentos e inseguranças de seus amigos. Ele tem o hábito peculiar de inventar espontaneamente nomes ridículos para os movimentos que executa enquanto pratica os recebimentos. Ele também é inesperadamente tímido quando se trata de conversar com garotas que não conheceu antes.
+
+Como Tanaka, Nishinoya tem um grande interesse em Kiyoko Shimizu. Juntos, eles tentam se aproximar dela, mas são ignorados. Eles causam um certo tumulto quando isso acontece e geralmente são repreendidos por alguém, geralmente Daichi. Quando a série apresenta oficialmente Noya, ele se aproxima energicamente de Kiyoko, o que resulta em um tapa fora da tela. Nishinoya retorna com uma bochecha vermelha e um sorriso. [1] Tanaka e Nishinoya gostam de ser chamados de "Senpai" (ou veteranos na versão em português) e não gostam de meninos com muita atenção de meninas.</p>
+    </div>
+  </div>
+  <!-- Duplicata do penúltimo div 7 -->
+  <div class="w3-row w3-padding-64" id="karasuno-duplicata-7">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+      <img src="https://media.discordapp.net/attachments/1018192135679381526/1412434823728861354/221_Sem_Titulo_20250902095127.png?ex=68b847ef&is=68b6f66f&hm=74201e4d3c4e2f000167b5009a4849fb5af996f3870f01e9fbefe93a37ab2d5d&=&format=webp&quality=lossless&width=513&height=856" class="w3-round w3-image" alt="Table Setting" width="600" height="950" style="opacity:0.95;">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <p class="w3-large">Tsukishima Kei é muito contundente e às vezes irrita seus companheiros de equipe devido à sua natureza antagônica (mais notavelmente sendo Hinata, Kageyama, Nishinoya e Tanaka) e às vezes outras equipes por causa de sua atitude presunçosa casual, tendo orgulho e saboreando quando seus oponentes o vêem como um incômodo, como visto com Tendō e Shirabu. Tsukishima é muito alto e incrivelmente magro para um jogador de voleibol. Apesar de ser um primeiro ano, ele é o jogador mais alto do Karasuno, com 190,1 centímetros. Ele tem cabelo loiro curto, pele clara, sobrancelhas finas e olhos castanhos dourados. Ele é frequentemente visto com uma carranca ou um sorriso condescendente no rosto. Tsukishima mantém a calma, na maior parte, mas pode ser visto ficando visivelmente irritado quando as pessoas o subestimam ou dizem o que ele pode ou não fazer, e usa isso como motivação para provar que estão errados. Ele também diz coisas como "Não é uma competição" com Hinata, mas imediatamente começa a fazer algo para deixá-lo com ciúmes, como o ataque de fuso horário durante a partida de Shiratorizawa.</p>
+    </div>
+  </div>
+  <!-- Duplicata extra do último bloco -->
+  <div class="w3-row w3-padding-64" id="karasuno-duplicata-8">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+      <img src="https://media.discordapp.net/attachments/1018192135679381526/1412434824010006739/221_Sem_Titulo_20250902095130.png?ex=68b847ef&is=68b6f66f&hm=043c932ca8eaf29a4cb8b4c5f776156f6aff30317845cb1a8712ee8646861dfe&=&format=webp&quality=lossless&width=513&height=856" class="w3-round w3-image" alt="Table Setting" width="600" height="950" style="opacity:0.95;">
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <p class="w3-large">Yamaguchi Tadashi é uma pessoa muito tímida que confia nos outros. Embora ele geralmente seja uma pessoa legal, ele tende a rir ou se juntar a Tsukishima sempre que está zombando dos outros, especialmente Kageyama e Hinata.
+
+É um trabalhador esforçado, conforme demonstrado quando buscou treinos extras por conta própria e como continuou praticando fora da equipe, ao ver o quão fraco era em relação aos demais companheiros. Seu esforço e visto em diversos episódios, mesmo com os treinos livres de noite, ele continuou aprimorando seu saque, pois queria ser tão útil quanto os outros primeiranistas.
+
+Depois de uma derrota fatal na partida contra o Aobajohsai High, ele ganhou muita confiança graças aos seus companheiros de equipe e Makoto Shimada, que o ajudou a praticar o saque flutuante. Durante o acampamento de treinamento de verão, ele até enfrentou Kei Tsukishima, o que o surpreendeu com as ações de Yamaguchi e até o chamou de "legal" pela primeira vez. Tsukishima começou a trabalhar mais, e seu relacionamento voltou ao normal depois desse evento.
+
+Mesmo assim, Tadashi ainda considera sua ação "pesada" para Tsukishima. Nas entrelinhas ambos são inseguros sobre suas próprias habilidades. Mas no momento que Yamaguchi confrontou Tsukishima os dois foram impulsionados a melhorar. O relacionamento de ambos continuou assim até as partidas finais das eliminatorias do Nacional, ambos se encorajando a continuar lutando.
+
+Tadashi também é um ótimo comunicador. Construiu uma amizade forte com todos do time, e ganhou suas confianças depois de treinar o saque flutuante.</p>
+    </div>
+  </div>
+
+<!-- End page content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-light-grey w3-padding-32">
+  <p>Feito por <a href="#home" title="Ana Luiza Marques Furlan, Anne Alizeé dos Santos Catelan" target="_blank" class="w3-hover-text-orange">Ana Luiza Marques Furlan, Anne Alizeé dos Santos Catelan</a></p>
+</footer>
+
+</body>
+</html>
